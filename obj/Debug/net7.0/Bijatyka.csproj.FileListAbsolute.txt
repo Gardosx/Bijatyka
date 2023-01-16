@@ -1,0 +1,15 @@
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\bin\Debug\net7.0\Bijatyka.exe
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\bin\Debug\net7.0\Bijatyka.deps.json
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\bin\Debug\net7.0\Bijatyka.runtimeconfig.json
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\bin\Debug\net7.0\Bijatyka.dll
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\bin\Debug\net7.0\Bijatyka.pdb
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.csproj.AssemblyReference.cache
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.AssemblyInfoInputs.cache
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.AssemblyInfo.cs
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.dll
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\refint\Bijatyka.dll
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.pdb
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\Bijatyka.genruntimeconfig.cache
+C:\Users\Michał\Desktop\Gra na pp\Bijatyka\obj\Debug\net7.0\ref\Bijatyka.dll
